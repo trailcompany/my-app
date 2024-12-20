@@ -6,7 +6,7 @@ import ButtonComponent from './ButtonComponent';
 function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
-    <h1>Button Sample App</h1>
+    <h1>Button Sample Ap</h1>
     <ButtonComponent />
    </div>
   );
